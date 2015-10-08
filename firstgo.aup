@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="firstgo_data" version="1.3.0" audacityversion="2.1.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="10.8812421474" zoom="224.6986113231" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="major_brand" value="dash"/>
+		<tag name="Encoding time" value="2015-07-29 11:15:16"/>
+		<tag name="Software" value="Lavf54.20.4"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+		<tag name="minor_version" value="0"/>
+	</tags>
+	<import filename="Alan Watts- M O N E Y.ogg" offset="0.00000000" mute="0" solo="0" height="79" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Audio Track.ogg" offset="1.33185941" mute="0" solo="0" height="82" minimized="0" gain="1.0" pan="0.0"/>
+	<import filename="Drake - Back To Back (Instrumental).ogg" offset="2.46818594" mute="0" solo="0" height="72" minimized="0" gain="1.0" pan="0.0"/>
+</project>
